@@ -1,0 +1,2 @@
+# singleapppage
+my inf
